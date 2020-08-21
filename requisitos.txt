@@ -1,0 +1,4 @@
+Sistema cujo o cliente deverá fazer um cadastro para solicitar a viagem com o carro.
+O sistema irá calcular de acordo com as informações dadas pelo cliente (origem e destino)
+exatamente a rota a ser percorrida, assim como o tempo que irá durá.
+O pagamento será realizado via cadastro do cartão de crédito.
